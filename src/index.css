@@ -243,7 +243,7 @@ body {
 .card:nth-child(3) { animation-delay: 0.3s; }
 
 /* Responsive Design */
-/* @media (max-width: 768px) {
+ @media (max-width: 768px) {
   .card {
     height: auto;
     flex-direction: column;
@@ -267,7 +267,7 @@ body {
   .content h3 {
     font-size: 1.4rem;
   }
-} */
+} 
 
 /* Floating Animation */
 /* @keyframes float {
