@@ -18,8 +18,8 @@ function Data() {
             duration: "181 min",
             genre: "Action, Adventure, Sci-Fi",
             description: "After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more to reverse Thanos' actions and restore balance to the universe.",
-            poster: "./public/endgame_highlight.webp",
-            highlight: "/public/endgame_highlight.webp"
+            poster: "/endgame_highlight.webp",
+            highlight: "/endgame_highlight.webp"
         }
     ]
   )
